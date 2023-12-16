@@ -14,7 +14,7 @@ login = wbi_login.OAuth1(
 wbi = WikibaseIntegrator(login=login)
 
 # Loop para criar lexemas com valores de 'Art. 1º' a 'Art. 9º'
-for i in range(104, 115):
+for i in range(1, 10):
     # Crie um novo lexema para a categoria lexical 'Q2810'
     lexeme = wbi.lexeme.new(lexical_category='Q2810')
     
