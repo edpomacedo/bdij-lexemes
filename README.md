@@ -25,7 +25,7 @@ python -m pip install wikibaseintegrator
 ## Uso
 
 1. Acesse `./venv/Lib/wikibaseintegrator/wbi_config.py` e realize o apontamento das variáveis de acesso.
-2. Insira as credenciais do consumidor OAuth1 no arquivo `bdij.py`.
+2. Insira as credenciais do consumidor OAuth1 no arquivo `config.py`.
 3. Oriente-se pelos comentários no código para indicar o intervalo de criação de lexemas.
 4. Execute o comando `python main.py`.
 
