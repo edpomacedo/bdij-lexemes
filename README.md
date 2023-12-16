@@ -1,6 +1,6 @@
 # bdij-lexemes
 
-[doi:10.5281/zenodo.10395844](https://zenodo.org/badge/DOI/10.5281/zenodo.10395844.svg)
+![doi:10.5281/zenodo.10395844](https://zenodo.org/badge/DOI/10.5281/zenodo.10395844.svg)
 
 Ferramenta especializada para criação automática de Lexemes na Base de Dados de Institutos Jurídicos.
 
