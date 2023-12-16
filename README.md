@@ -10,7 +10,7 @@ Ferramenta especializada para criação automática de Lexemes na Base de Dados 
 
 ## Pré-requisitos
 
-Utiliza credenciais [OAuth](https://web.bdij.com.br/wiki/Special:OAuthListConsumers) da Base de Dados de Institutos Jurídicos e a biblioteca `[wikibaseintegrator](https://github.com/LeMyst/WikibaseIntegrator) v0.12.4`.
+Utiliza credenciais [OAuth](https://web.bdij.com.br/wiki/Special:OAuthListConsumers) da Base de Dados de Institutos Jurídicos e a biblioteca [wikibaseintegrator](https://github.com/LeMyst/WikibaseIntegrator) `v0.12.4`.
 
 ## Instalação
 
